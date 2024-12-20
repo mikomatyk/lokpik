@@ -10,4 +10,4 @@ no longer active, and the domain *lokpik.org* is no longer under my control.
 
 &copy; 2020 [Mikołaj Bartnicki](mailto:mikolaj@bartnicki.org)
 
-The text and images are copyrighted, the code is [Unlicensed](UNLICENSE.txt).
+The text and images are copyrighted; the code is [Unlicensed](LICENSE).
